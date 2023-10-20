@@ -10,15 +10,15 @@ base_url() ?>assets/css/stylebuku.css">
     <div id="wrapper">
         <header>
             <hgroup>
-                <h1>RentalBuku.net</h1>
-                <h3>Membuat Template Sederhana dengan CodeIgniter</h3>
+                <h1>MENTAL YANG SEHAT</h1>
+                <h3>Pentingnya Kesehatan Mental pada Remaja</h3>
             </hgroup>
             <nav>
                 <ul>
                     <li><a href="<?php echo 
-base_url().'index.php/web'?>">Home</a></li>
+base_url().'index.php/web'?>">About</a></li>
                     <li><a href="<?php echo 
-base_url().'index.php/web/about'?>">About</a></li>
+base_url().'index.php/web/about'?>">Solusi</a></li>
                 </ul>
             </nav>
     <div class=”clear”></div>
