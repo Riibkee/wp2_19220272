@@ -1,18 +1,18 @@
 body{
-    background: #eee;
+    background: pink;
     color: #333;
     font-family: sans-serif;
     font-size:15px;
    }
 
    #wrapper{
-    background: #fff;
+    background: pink;
     width: 1100px;
     margin: 20px auto;
    }
 
    #wrapper header{
-    background: #cb84a0;
+    background: #87CEFA;
     padding: 100px;
    }
 
@@ -47,16 +47,22 @@ body{
    }
 
    footer{
-    background: #cb84a0;
+    background: #87CEFA;
     padding: 40px;
     
    }
    
    footer a{
-    color: #fff;
+    color: black;
     text-decoration: none;
    }
    
    section{
     padding: 20px;
+    
+   }
+
+   .class{
+    padding: 20px;
+    
    }

@@ -16,9 +16,11 @@ base_url() ?>assets/css/stylebuku.css">
             <nav>
                 <ul>
                     <li><a href="<?php echo 
-base_url().'index.php/web'?>">About</a></li>
+base_url().'index.php/web/index'?>">Home</a></li>
                     <li><a href="<?php echo 
 base_url().'index.php/web/about'?>">Solusi</a></li>
+                    <li><a href="<?php echo 
+base_url().'index.php/web/data'?>">About</a></li>
                 </ul>
             </nav>
     <div class=”clear”></div>

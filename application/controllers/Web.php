@@ -20,4 +20,11 @@ class Web extends CI_Controller{
         $this->load->view('v_footer',$data);
     
     }
+    public function data(){
+        $data['judul'] ="Pengertian Kesehatan Mental";
+        $this->load->view('v_header',$data);
+        $this->load->view('v_data',$data);
+        $this->load->view('v_footer',$data);
+    
+    }
 }
